@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BitTask</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="home_photo">home photo</string>
+    <string name="error_message">An error occurred. Please try again later</string>
+</resources>
